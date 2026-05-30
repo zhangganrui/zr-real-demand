@@ -44,8 +44,8 @@
 把 skill 目录拷进你的 Claude skills 目录即可：
 
 ```bash
-git clone https://github.com/zhangganrui/real-demand.git
-cp -r real-demand/real-demand ~/.claude/skills/
+git clone https://github.com/zhangganrui/zr-real-demand.git
+cp -r zr-real-demand/real-demand ~/.claude/skills/
 ```
 
 重启 Claude Code 后，说"我有个想法 / 帮我看看这个需求 / 这是不是真需求"即可触发。
