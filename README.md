@@ -44,7 +44,7 @@
 把 skill 目录拷进你的 Claude skills 目录即可：
 
 ```bash
-git clone https://github.com/<your-name>/real-demand.git
+git clone https://github.com/zhangganrui/real-demand.git
 cp -r real-demand/real-demand ~/.claude/skills/
 ```
 
